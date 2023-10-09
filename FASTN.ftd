@@ -1,15 +1,17 @@
 -- import: fastn
 
--- fastn.package: rutukapate.github.io/portfolio-template
-favicon: /-/rutukapate.github.io/portfolio-template/favicon.ico
+-- fastn.package: <user_name>.github.io/<repo_name>
+favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: rutukapate.github.io/UI-Packages as package
 
--- fastn.auto-import: rutukapate.github.io/portfolio-template/FASTN/ds
--- fastn.auto-import: rutukapate.github.io/portfolio-template/assets
+-- fastn.auto-import: package
+-- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
+-- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
 -- fastn.auto-import: doc-site
 
 -- fastn.sitemap:
