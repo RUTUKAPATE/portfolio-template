@@ -1,25 +1,25 @@
 # Overview
 
-[doc-site](https://fastn-community.github.io/doc-site/) will help you create
-a beautiful documentation site in no time.
+[Porttfolio](https://rutukapate.github.io/Portfolio/) will help you create
+a beautiful Portfolio Page in no time.
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+It provides out-of-the-box portfolio features that can be used to create any
+kind of portfolios(personal, proffessional, etc).
 
 # Preview
 
-![doc-site](.github/assets/doc-site-example-dark.jpg)
+![Portfolio](.github/assets/portfolio.png)
 
 ## Get Rolling
 
-[Click here](https://fastn-community.github.io/doc-site/) to learn how to use this template.
+[Click here](https://rutukapate.github.io/Portfolio/) to learn how to use this template.
 
-# [Dive into the Docs](https://fastn-community.github.io/doc-site/)
+# [Dive into the Portfolio](https://rutukapate.github.io/Portfolio/)
 
 # See it in Action!
 
-Explore websites and projects that have utilized this component/template 
-**[here](https://fastn-community.github.io/doc-site/#dart-used-by)** for
+Explore skills and projects that have utilized this component/template 
+**[here](https://rutukapate.github.io/Portfolio/)** for
 inspiration.
 
 ## fastn and Curious?
