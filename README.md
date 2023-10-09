@@ -1,6 +1,6 @@
 # Overview
 
-[Porttfolio](https://rutukapate.github.io/Portfolio/) will help you create
+[Portfolio](https://rutukapate.github.io/Portfolio/) will help you create
 a beautiful Portfolio Page in no time.
 
 It provides out-of-the-box portfolio features that can be used to create any
