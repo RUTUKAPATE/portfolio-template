@@ -7,7 +7,9 @@ favicon: /-/<user_name>.github.io/<repo_name>/favicon.ico
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
 -- fastn.dependency: fastn-community.github.io/dark-flame-cs
+-- fastn.dependency: rutukapate.github.io/UI-Packages as package
 
+-- fastn.auto-import: package
 -- fastn.auto-import: <user_name>.github.io/<repo_name>/FASTN/ds
 -- fastn.auto-import: <user_name>.github.io/<repo_name>/assets
 -- fastn.auto-import: doc-site
